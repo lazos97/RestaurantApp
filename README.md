@@ -15,9 +15,9 @@ Update the IP Address Before starting the application, you need to configure the
 
    Go to Terminal > New Terminal. Click Split Terminal to open a second terminal side by side. Then, in each terminal run the following commands:
 
-   First Terminal (Back-End): cd ./restaurant-server npm install
+   First Terminal (Back-End): cd ./restaurant-server npm i
 
-   Second Terminal (Front-End): cd ./restaurant npm install
+   Second Terminal (Front-End): cd ./restaurant npm i
 
    Start the Application Once dependencies are installed and the IP is set:
 
