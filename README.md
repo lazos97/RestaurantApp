@@ -25,4 +25,8 @@ Update the IP Address Before starting the application, you need to configure the
 
    Start the Front-End: cd ./restaurant npm start
 
+   ⚠️ Important:
+   If you want to download and run the app, you will also need to provide your own database credentials, as the original MongoDB connection details are not included in this repository for security reasons (they are listed in .gitignore (.env)).
+   Make sure to set up your own MongoDB instance and update the relevant configuration file in the back-end accordingly.
+
    That’s it! The application should now be up and running. Open your browser and enjoy using the Restaurant App!
